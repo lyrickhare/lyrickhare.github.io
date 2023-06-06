@@ -1,0 +1,48 @@
+body {
+    background-color: #1a1a1a;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .card {
+    background-color: #333333;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .section-title {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .sub-section-title {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .experience-card,
+  .project-card {
+    margin-bottom: 15px;
+  }
+  
+  .experience-card h4,
+  .project-card h4 {
+    margin-bottom: 5px;
+  }
+  
+  a {
+    color: #ffffff;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
